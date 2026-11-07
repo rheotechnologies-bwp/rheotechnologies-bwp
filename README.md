@@ -48,6 +48,16 @@ Learn more about our [engagement models](https://www.rheotechnologies.com/work-w
 
 ## Our Work on GitHub
 
+### Explore Our Portfolio
+
+We showcase selected software projects, business solutions,
+and engineering case studies while keeping proprietary
+client source code private.
+
+**[View Our Engineering Portfolio](https://github.com/rheotechnologies-bwp/rheo-technologies-portfolio)**
+
+**[Explore Our Projects & Case Studies](https://www.rheotechnologies.com/work)**
+
 Most client repositories are **private** because they contain proprietary software and confidential business information.
 
 This GitHub account is a public home for our company profile and any **independently developed demos, open-source work, or case studies approved for publication**.
